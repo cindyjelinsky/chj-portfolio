@@ -15,7 +15,7 @@ const Projects = () => {
     },
     {
       id: 2,
-      titulo: 'Mobile Banking App',
+      titulo: 'Mobile Banking App             ',
       descricao: 'Intuitive web banking app with real-time balance checking and transfers. ',
       imagem: 't',
       tecnologias: ['Java ', 'Spring', 'PostgreSQL'],
