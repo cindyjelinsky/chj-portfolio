@@ -1,0 +1,135 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Production builds
+node_modules
+dist
+dist-ssr
+build/
+*.local
+
+# Build artifacts
+*.tgz
+*.tar.gz
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*~
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Package managers
+# package-lock.json (keep this for dependency consistency)
+yarn.lock
+pnpm-lock.yaml
+
+# Coverage and testing
+coverage/
+*.lcov
+.nyc_output/
+cypress/videos/
+cypress/screenshots/
+
+# Temporary folders
+tmp/
+temp/
+.cache/
+.parcel-cache/
+
+# OS generated files
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Optional cache files
+.eslintcache
+.stylelintcache
+.rpt2_cache/
+.rts2_cache_cjs/
+.rts2_cache_es/
+.rts2_cache_umd/
+
+# REPL history
+.node_repl_history
+
+# Yarn
+.yarn-integrity
+
+# Microbundle
+.rpt2_cache/
+.rts2_cache_cjs/
+.rts2_cache_es/
+.rts2_cache_umd/
+
+# Local configuration
+config.local.js
+config.local.json
+
+# Backup files
+*.bak
+*.backup
+*.old
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Deployment folders
+.netlify/
+.vercel/
+.firebase/
+amplify/
+
+# Sentry
+.sentryclirc
+
+# TypeScript
+*.tsbuildinfo
+
+# Vite
+.vite/
+
+# Local development
+.local/
+
+# Misc
+.vagrant
+*.pid
+*.seed
+*.pid.lock
+
+# Generated documentation
+docs/build/
+
+# Documentation files
+README.md
+*.md
