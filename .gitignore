@@ -133,3 +133,6 @@ docs/build/
 # Documentation files
 README.md
 *.md
+CHANGES_SUMMARY*
+CHANGES*
+SUMMARY*
